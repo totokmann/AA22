@@ -1,0 +1,16 @@
+Nombre: Fabricio 
+Dirección: qUEIREL
+Pedido de pizzas:
+- Jamon y queso: 1 unidad(es)
+- Muzzarella: 1 unidad(es)
+
+Nombre: Fabricio 
+Dirección: qUEIREL
+Pedido de pizzas:
+
+Nombre: Fabricio 
+Dirección: qUEIREL
+Pedido de pizzas:
+- Jamon y queso: 1 unidad(es)
+- Muzzarella: 1 unidad(es)
+
